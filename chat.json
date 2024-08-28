@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the color palette selection, do you prefer a static sidebar placement that's always visible, or a pop-up/modal that appears when a color selection icon is clicked?\", \"option1\": \"Static sidebar placement\", \"option2\": \"Pop-up/modal\"}, {\"question 2\": \"Regarding the Save and Load feature, would you like the save functionality to be automatic at certain intervals or manually initiated by the user?\", \"option1\": \"Automatic saving at certain intervals\", \"option2\": \"Manually initiated by the user\"}], \"input_token_count\": 289, \"output_token_count\": 120, \"time_taken\": \"0:00:10.552055\"}",
+        "message_id": "guest28082024093248",
+        "timestamp": "28082024093308",
+        "component_file_name": "blank_component_1724837376",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Color palette selection for easy access to frequently used colors, Undo/Redo buttons for easy error correction, Save and Load feature for artworks",
         "message_id": "guest28082024093248",

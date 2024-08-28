@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a prominent game title on the main screen\", \"checked\": true}, {\"feature\": \"Implement font style options in the game settings for the title\", \"checked\": true}, {\"feature\": \"Integrate a feature to change the title background based on the game theme\", \"checked\": true}, {\"feature\": \"Develop localization support for displaying the title in multiple languages\", \"checked\": true}, {\"feature\": \"Option to save custom title settings\", \"checked\": false}, {\"feature\": \"Preview feature for title changes before applying\", \"checked\": false}], \"input_token_count\": 302, \"output_token_count\": 118, \"time_taken\": \"0:00:05.676032\"}",
+        "message_id": "guest28082024093114",
+        "timestamp": "28082024093124",
+        "component_file_name": "blank_component_1724837376",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where do you prefer the game title to be positioned within the game's interface?\", \"option1\": \"At the top center of the main menu\", \"option2\": \"On a separate introductory screen before the main menu\"}, {\"question 2\": \"Would you like the game title to be constantly visible during gameplay or only appear on specific screens (such as the main menu and the game over screen)?\", \"option1\": \"Constantly visible during gameplay\", \"option2\": \"Only appear on specific screens\"}], \"input_token_count\": 347, \"output_token_count\": 118, \"time_taken\": \"0:00:04.373229\"}",
         "message_id": "guest28082024093114",

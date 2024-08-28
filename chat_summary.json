@@ -42,5 +42,11 @@
         "content": "\"Will work on fully customizable font style, theme-based background, and localization support for multiple languages.\"",
         "timestamp": "28082024093039",
         "message_id": "guest28082024093039"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Dynamic font size adjustment for better readability across devices\", \"checked\": true}, {\"feature\": \"Theme synchronization for in-game elements based on the title background\", \"checked\": true}, {\"feature\": \"Multi-language support for game content and instructions\", \"checked\": true}, {\"feature\": \"Introduction of alternate title designs for user selection\", \"checked\": false}, {\"feature\": \"Incorporation of a font library for user selection in customization settings\", \"checked\": false}, {\"feature\": \"Automatic title language detection based on user\\u2019s location\", \"checked\": false}], \"input_token_count\": 236, \"output_token_count\": 120, \"time_taken\": \"0:00:05.460279\"}",
+        "timestamp": "28082024093045",
+        "message_id": "guest28082024093039"
     }
 ]

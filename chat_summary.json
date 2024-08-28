@@ -18,5 +18,11 @@
         "content": "\"Crafting Your Perfect Title: Tips and Tricks for Effective Headlines\"",
         "timestamp": "28082024092950",
         "message_id": "guest28082024092950"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Fully customizable font style for the title\", \"checked\": true}, {\"feature\": \"Dynamic title animation (e.g., shimmer, bounce)\", \"checked\": false}, {\"feature\": \"Theme-based title background\", \"checked\": true}, {\"feature\": \"Option to add subtitle with different styling options\", \"checked\": false}, {\"feature\": \"Interactive title (e.g., reacts to user's cursor movements)\", \"checked\": false}, {\"feature\": \"Title localization support for multiple languages\", \"checked\": true}], \"input_token_count\": 221, \"output_token_count\": 108, \"time_taken\": \"0:00:04.633549\"}",
+        "timestamp": "28082024092955",
+        "message_id": "guest28082024092950"
     }
 ]

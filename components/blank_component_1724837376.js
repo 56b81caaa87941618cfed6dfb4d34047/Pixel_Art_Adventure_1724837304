@@ -66,15 +66,15 @@ export default {
 <i18n>
 {
   "en": {
-    "title": "Unleash Your Digital Potential",
+    "title": "Funniest Game Ever",
     "subtitle": "Empowering Innovations, Transforming Futures"
   },
   "es": {
-    "title": "Libera tu Potencial Digital",
+    "title": "El Juego Más Divertido de la Historia",
     "subtitle": "Empoderando Innovaciones, Transformando Futuros"
   },
   "fr": {
-    "title": "Libérez Votre Potentiel Numérique",
+    "title": "Le Jeu le Plus Drôle de Tous les Temps",
     "subtitle": "Autonomiser les Innovations, Transformer les Avenirs"
   }
 }

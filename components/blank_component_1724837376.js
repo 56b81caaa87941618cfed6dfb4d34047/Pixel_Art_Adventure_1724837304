@@ -22,7 +22,7 @@ INSTRUCTION: </div>
                     <div id="left-side-container" class="flex-1">
                         <div class="text-center">
                             <h1 :class="titleClasses" :style="titleStyles">
-                                {{ $t('title') }}
+                                Greatest Game Ever
                             </h1>
                             <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl dark:text-gray-400">
                                 {{ $t('subtitle') }}
@@ -129,7 +129,7 @@ export default {
 <i18n>
 {
   "en": {
-    "title": "Funniest Game Ever",
+    "title": "Greatest Game Ever",
     "subtitle": "Empowering Innovations, Transforming Futures"
   },
   "es": {

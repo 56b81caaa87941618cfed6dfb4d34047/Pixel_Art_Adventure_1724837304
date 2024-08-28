@@ -30,5 +30,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have a preferred style or theme for the title that matches the pixel art game's aesthetics?\", \"option1\": \"Yes, I have a specific style/theme in mind.\", \"option2\": \"No, I'd like suggestions based on the game's current design.\"}, {\"question 2\": \"Should the title also include any specific characters or elements from the game?\", \"option1\": \"Yes, include specific characters/elements.\", \"option2\": \"No, keep it text-based without specific in-game elements.\"}], \"input_token_count\": 266, \"output_token_count\": 119, \"time_taken\": \"0:00:04.907482\"}",
         "timestamp": "28082024092956",
         "message_id": "guest28082024092950"
+    },
+    {
+        "role": "user",
+        "content": "Fully customizable font style for the title, Theme-based title background, Title localization support for multiple languages",
+        "timestamp": "28082024093039",
+        "message_id": "guest28082024093039"
     }
 ]

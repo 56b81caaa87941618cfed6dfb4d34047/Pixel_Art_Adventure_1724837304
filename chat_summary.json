@@ -54,5 +54,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the fully customizable font style, do you want users to be able to import their own fonts, or should the app provide a curated list of fonts to choose from?\", \"option1\": \"Users can import their own fonts\", \"option2\": \"Provide a curated list of fonts\"}, {\"question 2\": \"For title localization support, do you prefer an automatic translation feature integrated into the app, or will you provide the translations for each supported language?\", \"option1\": \"Integrate an automatic translation feature\", \"option2\": \"I will provide translations for each language\"}], \"input_token_count\": 281, \"output_token_count\": 131, \"time_taken\": \"0:00:05.957650\"}",
         "timestamp": "28082024093046",
         "message_id": "guest28082024093039"
+    },
+    {
+        "role": "user",
+        "content": "where is the title?",
+        "timestamp": "28082024093114",
+        "message_id": "guest28082024093114"
     }
 ]

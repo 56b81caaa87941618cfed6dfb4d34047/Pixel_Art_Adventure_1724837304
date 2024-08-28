@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have a preferred style or theme for the title that matches the pixel art game's aesthetics?\", \"option1\": \"Yes, I have a specific style/theme in mind.\", \"option2\": \"No, I'd like suggestions based on the game's current design.\"}, {\"question 2\": \"Should the title also include any specific characters or elements from the game?\", \"option1\": \"Yes, include specific characters/elements.\", \"option2\": \"No, keep it text-based without specific in-game elements.\"}], \"input_token_count\": 266, \"output_token_count\": 119, \"time_taken\": \"0:00:04.907482\"}",
+        "message_id": "guest28082024092950",
+        "timestamp": "28082024092956",
+        "component_file_name": "blank_component_1724837376",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Fully customizable font style for the title\", \"checked\": true}, {\"feature\": \"Dynamic title animation (e.g., shimmer, bounce)\", \"checked\": false}, {\"feature\": \"Theme-based title background\", \"checked\": true}, {\"feature\": \"Option to add subtitle with different styling options\", \"checked\": false}, {\"feature\": \"Interactive title (e.g., reacts to user's cursor movements)\", \"checked\": false}, {\"feature\": \"Title localization support for multiple languages\", \"checked\": true}], \"input_token_count\": 221, \"output_token_count\": 108, \"time_taken\": \"0:00:04.633549\"}",
         "message_id": "guest28082024092950",

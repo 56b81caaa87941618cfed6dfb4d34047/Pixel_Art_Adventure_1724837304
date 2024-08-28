@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I can update the title to \"Funniest Game Ever\".",
+        "message_id": "guest28082024093145",
+        "timestamp": "28082024093145",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "the title should be funniest game ever",
         "message_id": "guest28082024093145",

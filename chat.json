@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "\"Crafting Your Perfect Title: Tips and Tricks for Effective Headlines\"",
+        "message_id": "guest28082024092950",
+        "timestamp": "28082024092950",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "create a great title",
         "message_id": "guest28082024092950",

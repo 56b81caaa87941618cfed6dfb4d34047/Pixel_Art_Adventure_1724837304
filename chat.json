@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the fully customizable font style, do you want users to be able to import their own fonts, or should the app provide a curated list of fonts to choose from?\", \"option1\": \"Users can import their own fonts\", \"option2\": \"Provide a curated list of fonts\"}, {\"question 2\": \"For title localization support, do you prefer an automatic translation feature integrated into the app, or will you provide the translations for each supported language?\", \"option1\": \"Integrate an automatic translation feature\", \"option2\": \"I will provide translations for each language\"}], \"input_token_count\": 281, \"output_token_count\": 131, \"time_taken\": \"0:00:05.957650\"}",
+        "message_id": "guest28082024093039",
+        "timestamp": "28082024093046",
+        "component_file_name": "blank_component_1724837376",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Dynamic font size adjustment for better readability across devices\", \"checked\": true}, {\"feature\": \"Theme synchronization for in-game elements based on the title background\", \"checked\": true}, {\"feature\": \"Multi-language support for game content and instructions\", \"checked\": true}, {\"feature\": \"Introduction of alternate title designs for user selection\", \"checked\": false}, {\"feature\": \"Incorporation of a font library for user selection in customization settings\", \"checked\": false}, {\"feature\": \"Automatic title language detection based on user\\u2019s location\", \"checked\": false}], \"input_token_count\": 236, \"output_token_count\": 120, \"time_taken\": \"0:00:05.460279\"}",
         "message_id": "guest28082024093039",

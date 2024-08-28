@@ -1,5 +1,23 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "I apologize, please provide me with the title and I will respond accordingly.",
+        "message_id": "guest28082024093125",
+        "timestamp": "28082024093125",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a prominent game title on the main screen\", \"checked\": true}, {\"feature\": \"Implement font style options in the game settings for the title\", \"checked\": true}, {\"feature\": \"Integrate a feature to change the title background based on the game theme\", \"checked\": true}, {\"feature\": \"Develop localization support for displaying the title in multiple languages\", \"checked\": true}, {\"feature\": \"Option to save custom title settings\", \"checked\": false}, {\"feature\": \"Preview feature for title changes before applying\", \"checked\": false}], \"input_token_count\": 302, \"output_token_count\": 118, \"time_taken\": \"0:00:05.676032\"}",
+        "message_id": "guest28082024093114",
+        "timestamp": "28082024093124",
+        "component_file_name": "blank_component_1724837376",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where do you prefer the game title to be positioned within the game's interface?\", \"option1\": \"At the top center of the main menu\", \"option2\": \"On a separate introductory screen before the main menu\"}, {\"question 2\": \"Would you like the game title to be constantly visible during gameplay or only appear on specific screens (such as the main menu and the game over screen)?\", \"option1\": \"Constantly visible during gameplay\", \"option2\": \"Only appear on specific screens\"}], \"input_token_count\": 347, \"output_token_count\": 118, \"time_taken\": \"0:00:04.373229\"}",
         "message_id": "guest28082024093114",
@@ -72,27 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "chat_acknowledge",
-        "content": "\"Crafting Your Perfect Title: Tips and Tricks for Effective Headlines\"",
-        "message_id": "guest28082024092950",
-        "timestamp": "28082024092950",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "create a great title",
-        "message_id": "guest28082024092950",
-        "timestamp": "28082024092950",
-        "component_file_name": "blank_component_1724837376",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "Can you describe the project a bit more?",
-        "timestamp": "28082024093123",
-        "message_id": "guest28082024093114"
+        "content": "In the conversation, the user requested the AI assistant to create a great title for a project related to \"Crafting Your Perfect Title: Tips and Tricks for Effective Headlines.\" The AI acknowledged the message and then asked the user to provide more details about the project for better assistance. The AI also mentioned that it is trained on data only up to October 2023.",
+        "timestamp": "28082024093125",
+        "message_id": "guest28082024093125"
     }
 ]

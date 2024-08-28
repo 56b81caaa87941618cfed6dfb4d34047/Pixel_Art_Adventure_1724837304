@@ -18,13 +18,20 @@ INSTRUCTION: </div>
         <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
         <section id="blank-section" class="bg-white dark:bg-gray-900 flex-1">
             <div id="blank-container" class="max-w-screen-xl px-4 pt-20 pb-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 lg:pt-28">
-                <div class="flex-1 text-center">
-                    <h1 :class="titleClasses" :style="titleStyles">
-                        {{ $t('title') }}
-                    </h1>
-                    <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl dark:text-gray-400">
-                        {{ $t('subtitle') }}
-                    </p>
+                <div class="grid">
+                    <div id="left-side-container" class="flex-1">
+                        <div class="text-center">
+                            <h1 :class="titleClasses" :style="titleStyles">
+                                {{ $t('title') }}
+                            </h1>
+                            <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl dark:text-gray-400">
+                                {{ $t('subtitle') }}
+                            </p>
+                        </div>
+                    </div>
+                    <div id="right-side-container" class="flex-1">
+                        <!-- Right side content -->
+                    </div>
                 </div>
             </div>
         </section>  

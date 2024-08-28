@@ -22,5 +22,9 @@
     {
         "level": 1,
         "task_description": "This is the user's current request of changes to be made:\ndo it"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's current request of changes to be made:\nColor palette selection for easy access to frequently used colors, Undo/Redo buttons for easy error correction, Save and Load feature for artworks"
     }
 ]

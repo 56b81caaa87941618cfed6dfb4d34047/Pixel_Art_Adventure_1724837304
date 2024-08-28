@@ -30,7 +30,47 @@ INSTRUCTION: </div>
                         </div>
                     </div>
                     <div id="right-side-container" class="flex-1">
-                        <!-- Right side content -->
+                        <div class="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-lg">
+                            <!-- Color Palette -->
+                            <div class="mb-6">
+                                <h3 class="text-lg font-semibold mb-2">Color Palette</h3>
+                                <div class="flex space-x-2">
+                                    <button class="w-8 h-8 rounded-full bg-red-500"></button>
+                                    <button class="w-8 h-8 rounded-full bg-blue-500"></button>
+                                    <button class="w-8 h-8 rounded-full bg-green-500"></button>
+                                    <button class="w-8 h-8 rounded-full bg-yellow-500"></button>
+                                    <button class="w-8 h-8 rounded-full bg-purple-500"></button>
+                                </div>
+                            </div>
+                            
+                            <!-- Undo/Redo Buttons -->
+                            <div class="mb-6">
+                                <div class="flex space-x-2">
+                                    <button class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-bold py-2 px-4 rounded inline-flex items-center">
+                                        <i class='bx bx-undo mr-2'></i>
+                                        Undo
+                                    </button>
+                                    <button class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-bold py-2 px-4 rounded inline-flex items-center">
+                                        <i class='bx bx-redo mr-2'></i>
+                                        Redo
+                                    </button>
+                                </div>
+                            </div>
+                            
+                            <!-- Save and Load Buttons -->
+                            <div>
+                                <div class="flex space-x-2">
+                                    <button @click="saveArtwork" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded inline-flex items-center">
+                                        <i class='bx bx-save mr-2'></i>
+                                        Save
+                                    </button>
+                                    <button @click="loadArtwork" class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded inline-flex items-center">
+                                        <i class='bx bx-upload mr-2'></i>
+                                        Load
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -62,7 +102,23 @@ export default {
         titleStyles() {
             return `font-family: ${this.titleFont};`;
         }
+        }
     },
+    methods: {
+        // Save Artwork method
+        saveArtwork() {
+            console.log("Saving artwork...");
+            // Add your save logic here
+        },
+        // End of Save Artwork method
+
+        // Load Artwork method
+        loadArtwork() {
+            console.log("Loading artwork...");
+            // Add your load logic here
+        }
+        // End of Load Artwork method
+    }
 };
 </script>
 

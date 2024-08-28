@@ -18,7 +18,14 @@ INSTRUCTION: </div>
         <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
         <section id="blank-section" class="bg-white dark:bg-gray-900 flex-1">
             <div id="blank-container" class="max-w-screen-xl px-4 pt-20 pb-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 lg:pt-28">
-
+                <div class="flex-1 text-center">
+                    <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">
+                        Unleash Your Digital Potential
+                    </h1>
+                    <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl dark:text-gray-400">
+                        Empowering Innovations, Transforming Futures
+                    </p>
+                </div>
             </div>
         </section>  
     </div>

@@ -18,5 +18,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\nIn the conversation, the user requested the AI assistant to create a great title for a project related to \"Crafting Your Perfect Title: Tips and Tricks for Effective Headlines.\" The AI acknowledged the message and then asked the user to provide more details about the project for better assistance. The AI also mentioned that it is trained on data only up to October 2023.\nAI: I apologize, please provide me with the title and I will respond accordingly.\nUser: where is the title?\nAI: \"Will work on fully customizable font style, theme-based background, and localization support for multiple languages.\"\nUser: Fully customizable font style for the title, Theme-based title background, Title localization support for multiple languages\n\nThis is the user's current request of changes to be made:\nthe title should be funniest game ever"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's current request of changes to be made:\ndo it"
     }
 ]

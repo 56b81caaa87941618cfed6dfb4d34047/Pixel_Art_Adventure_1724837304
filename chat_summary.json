@@ -36,5 +36,11 @@
         "content": "Fully customizable font style for the title, Theme-based title background, Title localization support for multiple languages",
         "timestamp": "28082024093039",
         "message_id": "guest28082024093039"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "\"Will work on fully customizable font style, theme-based background, and localization support for multiple languages.\"",
+        "timestamp": "28082024093039",
+        "message_id": "guest28082024093039"
     }
 ]

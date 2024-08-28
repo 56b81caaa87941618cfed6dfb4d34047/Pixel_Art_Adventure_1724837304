@@ -12,5 +12,11 @@
         "content": "create a great title",
         "timestamp": "28082024092950",
         "message_id": "guest28082024092950"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "\"Crafting Your Perfect Title: Tips and Tricks for Effective Headlines\"",
+        "timestamp": "28082024092950",
+        "message_id": "guest28082024092950"
     }
 ]

@@ -27,19 +27,19 @@
         "div_action": ""
     },
     {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Brush size adjustment for varied pixel sizes\", \"checked\": true}, {\"feature\": \"Customizable grid overlays for better pixel alignment\", \"checked\": false}, {\"feature\": \"Preview mode to view the artwork without the grid\", \"checked\": true}, {\"feature\": \"Export option to various formats (.png, .jpeg, .gif)\", \"checked\": true}, {\"feature\": \"Layer support for complex creations\", \"checked\": false}, {\"feature\": \"Zoom in/out functionality for detailed editing\", \"checked\": true}], \"input_token_count\": 244, \"output_token_count\": 110, \"time_taken\": \"0:00:09.467510\"}",
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the color palette selection, do you prefer a static sidebar placement that's always visible, or a pop-up/modal that appears when a color selection icon is clicked?\", \"option1\": \"Static sidebar placement\", \"option2\": \"Pop-up/modal\"}, {\"question 2\": \"Regarding the Save and Load feature, would you like the save functionality to be automatic at certain intervals or manually initiated by the user?\", \"option1\": \"Automatic saving at certain intervals\", \"option2\": \"Manually initiated by the user\"}], \"input_token_count\": 289, \"output_token_count\": 120, \"time_taken\": \"0:00:10.552055\"}",
         "message_id": "guest28082024093248",
-        "timestamp": "28082024093307",
+        "timestamp": "28082024093308",
         "component_file_name": "blank_component_1724837376",
         "div_id": "",
         "div_action": ""
     },
     {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the color palette selection, do you prefer a static sidebar placement that's always visible, or a pop-up/modal that appears when a color selection icon is clicked?\", \"option1\": \"Static sidebar placement\", \"option2\": \"Pop-up/modal\"}, {\"question 2\": \"Regarding the Save and Load feature, would you like the save functionality to be automatic at certain intervals or manually initiated by the user?\", \"option1\": \"Automatic saving at certain intervals\", \"option2\": \"Manually initiated by the user\"}], \"input_token_count\": 289, \"output_token_count\": 120, \"time_taken\": \"0:00:10.552055\"}",
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Brush size adjustment for varied pixel sizes\", \"checked\": true}, {\"feature\": \"Customizable grid overlays for better pixel alignment\", \"checked\": false}, {\"feature\": \"Preview mode to view the artwork without the grid\", \"checked\": true}, {\"feature\": \"Export option to various formats (.png, .jpeg, .gif)\", \"checked\": true}, {\"feature\": \"Layer support for complex creations\", \"checked\": false}, {\"feature\": \"Zoom in/out functionality for detailed editing\", \"checked\": true}], \"input_token_count\": 244, \"output_token_count\": 110, \"time_taken\": \"0:00:09.467510\"}",
         "message_id": "guest28082024093248",
-        "timestamp": "28082024093308",
+        "timestamp": "28082024093307",
         "component_file_name": "blank_component_1724837376",
         "div_id": "",
         "div_action": ""
@@ -72,15 +72,6 @@
         "div_action": ""
     },
     {
-        "role": "user",
-        "content": "do it",
-        "message_id": "guest28082024093235",
-        "timestamp": "28082024093235",
-        "component_file_name": "blank_component_1724837376",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "chat_acknowledge",
         "content": "Will do, working on it now.",
         "message_id": "guest28082024093235",
@@ -90,9 +81,18 @@
         "div_action": ""
     },
     {
+        "role": "user",
+        "content": "do it",
+        "message_id": "guest28082024093235",
+        "timestamp": "28082024093235",
+        "component_file_name": "blank_component_1724837376",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "summary",
-        "content": "In the conversation, the user requested the title \"Funniest Game Ever,\" which the AI acknowledged. Following this, the user received a checklist of features for potential implementation, including dynamic title animation, interactive title elements featuring game characters, and multi-language support. The AI inquired whether the user preferred restoring a previous title or creating a new one, and further probed for their preferences regarding the title's background colors or images.\n\nThe user expressed their wish for fully customizable font style, theme-based title background, and localization support for multiple languages, which the AI confirmed would be worked on. They then were asked about integrating a specific aesthetic or characters for the title, to which they responded with their preferences. \n\nAnother checklist presented additional feature ideas, highlighting customizable font styles, dynamic animations, and interactive elements, further engaging the user in a discussion about the title's design. The conversation concluded with the user asking for tips to create an effective title, prompting the AI to request more details about the project.",
-        "timestamp": "28082024093324",
-        "message_id": "guest28082024093311"
+        "content": "The user requested that the title be changed to \"Funniest Game Ever,\" to which the AI agreed to update. Subsequently, the user was presented with a list of additional features for potential implementation, including options like dynamic title animation, humor-oriented sound effects, and advanced text styling options. The conversation continued with inquiries about whether the user preferred to restore a previous title or create a new one based on their customizations. The user asked for the title's whereabouts, and the AI provided a checklist of features where options included adaptive title displays, personalization options, and dynamic backgrounds. \n\nThe user expressed interest in fully customizable font style, theme-based backgrounds, and localization support for multiple languages. Additional questions were posed about title aesthetics and the inclusion of specific in-game elements, all aimed at enhancing the title's design to match the game's aesthetics. In response, the AI confirmed it would work on the requested features. Toward the end, the user prompted the AI to generate a compelling title, and the AI indicated its readiness to assist further with title creation.",
+        "timestamp": "03092024124005",
+        "message_id": "guest03092024124002"
     }
 ]

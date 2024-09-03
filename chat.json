@@ -251,6 +251,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Could you specify the color palette you want for easy access, perhaps any specific colors you have in mind?\", \"option1\": \"Bright and vibrant colors\", \"option2\": \"Pastel and muted tones\"}, {\"question 2\": \"Do you need any specific functionalities for the Undo/Redo buttons, such as visual indicators or keyboard shortcuts?\", \"option1\": \"Yes, I want keyboard shortcuts\", \"option2\": \"No, just standard functionality\"}], \"input_token_count\": 543, \"output_token_count\": 106, \"time_taken\": \"0:00:01.399962\"}",
+        "message_id": "guest03092024124002",
+        "timestamp": "03092024124005",
+        "component_file_name": "blank_component_1724837376",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Let's focus on your project; what do you need done?",
         "message_id": "guest03092024124002",

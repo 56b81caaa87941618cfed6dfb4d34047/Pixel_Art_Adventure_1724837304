@@ -30,5 +30,9 @@
     {
         "level": 1,
         "task_description": "This is the user's current request of changes to be made:\nWrite a title saying \"greatest game ever\""
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nIn the conversation, the user requested the title \"Funniest Game Ever,\" which the AI acknowledged. Following this, the user received a checklist of features for potential implementation, including dynamic title animation, interactive title elements featuring game characters, and multi-language support. The AI inquired whether the user preferred restoring a previous title or creating a new one, and further probed for their preferences regarding the title's background colors or images.\n\nThe user expressed their wish for fully customizable font style, theme-based title background, and localization support for multiple languages, which the AI confirmed would be worked on. They then were asked about integrating a specific aesthetic or characters for the title, to which they responded with their preferences. \n\nAnother checklist presented additional feature ideas, highlighting customizable font styles, dynamic animations, and interactive elements, further engaging the user in a discussion about the title's design. The conversation concluded with the user asking for tips to create an effective title, prompting the AI to request more details about the project.\nAI: \"The Unquestionable Champion: The Greatest Game Ever Made\"\nUser: Write a title saying \"greatest game ever\"\nUser: Color palette selection for easy access to frequently used colors, Undo/Redo buttons for easy error correction, Save and Load feature for artworks\nUser: do it\nAI: Will do, working on it now.\n\nThis is the user's current request of changes to be made:\ndo it"
     }
 ]
